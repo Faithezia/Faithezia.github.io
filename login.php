@@ -92,7 +92,7 @@ body{
               $_SESSION['login_user'] = $_POST['username'];
               ?>
                 <script type="text/javascript">
-                  window.location = "index.php"
+                  window.location = "index.html"
                 </script>
               <?php
             }

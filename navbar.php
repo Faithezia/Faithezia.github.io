@@ -73,7 +73,7 @@
 <div class="m-4">
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a href="index.php" class="navbar-brand">LIBRARY SYSTEM |</a>
+            <a href="index.html" class="navbar-brand">LIBRARY SYSTEM |</a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
