@@ -65,7 +65,7 @@
     #navbarCollapse button.active{
     background-color: #0090E6;
     color: #FFFFFF;
-    }}
+    }
 </style>
 </head>
 <body>
