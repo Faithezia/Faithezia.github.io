@@ -1,8 +1,10 @@
+<?php 
+	include "navbar.php";
+ ?>
 <!DOCTYPE html>
 <html>
 <head>
 	<title>LIBRARY SYSTEM</title>
-	 <link rel="import" href="navbar.php">
 	<style type="text/css">
 body{
 	margin: 0;
